@@ -22,6 +22,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+<img width="895" height="175" alt="image" src="https://github.com/user-attachments/assets/ed02c81f-bda7-4fc0-958c-65c84b8bd73b" />
 
 
 ### 2)	pwd Command
@@ -29,6 +30,7 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+<img width="414" height="147" alt="image" src="https://github.com/user-attachments/assets/6aff00bf-55c9-4745-8553-6133a5f86cb7" />
 
  
 ### 3)	mkdir Command
@@ -36,6 +38,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+<img width="351" height="103" alt="image" src="https://github.com/user-attachments/assets/91db6edf-31e0-46dd-a2d8-cd31fc6a1ff7" />
 
 
 ### 4)	rmdir Command
@@ -43,6 +46,7 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+<img width="355" height="103" alt="image" src="https://github.com/user-attachments/assets/80abf863-0d21-4ec7-97db-57d65ff339ed" />
 
 
 ### 5)	cd Command
@@ -50,6 +54,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+<img width="361" height="110" alt="image" src="https://github.com/user-attachments/assets/faddb762-6712-4e3f-959c-c556f8367983" />
 
 
 ### 6)	cat Command
@@ -57,6 +62,7 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+<img width="697" height="338" alt="image" src="https://github.com/user-attachments/assets/c29344ed-8a3c-4150-adcc-a59b0a772060" />
 
  
 ### 7)	cp Command
@@ -64,6 +70,7 @@ Syntax: cat [OPTION]... [FILE]..
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
+<img width="494" height="98" alt="image" src="https://github.com/user-attachments/assets/49d87b69-9257-446c-8c2a-547147679159" />
 
 
 
