@@ -22,6 +22,7 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+ 
 <img width="895" height="175" alt="image" src="https://github.com/user-attachments/assets/ed02c81f-bda7-4fc0-958c-65c84b8bd73b" />
 
 
@@ -30,6 +31,7 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+
 <img width="414" height="147" alt="image" src="https://github.com/user-attachments/assets/6aff00bf-55c9-4745-8553-6133a5f86cb7" />
 
  
@@ -38,6 +40,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+
 <img width="351" height="103" alt="image" src="https://github.com/user-attachments/assets/91db6edf-31e0-46dd-a2d8-cd31fc6a1ff7" />
 
 
@@ -46,6 +49,7 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+
 <img width="355" height="103" alt="image" src="https://github.com/user-attachments/assets/80abf863-0d21-4ec7-97db-57d65ff339ed" />
 
 
@@ -54,6 +58,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+
 <img width="361" height="110" alt="image" src="https://github.com/user-attachments/assets/faddb762-6712-4e3f-959c-c556f8367983" />
 
 
@@ -62,6 +67,7 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+
 <img width="697" height="338" alt="image" src="https://github.com/user-attachments/assets/c29344ed-8a3c-4150-adcc-a59b0a772060" />
 
  
@@ -70,22 +76,24 @@ Syntax: cat [OPTION]... [FILE]..
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
+
 <img width="494" height="98" alt="image" src="https://github.com/user-attachments/assets/49d87b69-9257-446c-8c2a-547147679159" />
 
+### 8) passwd Command
 
+The passwd command changes passwords for user accounts.
 
-### 8)	gedit Command
+Syntax: passwd [options] [LOGIN]
 
-The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
-
-Syntax: gedit file_name
-
+<img width="1308" height="444" alt="image" src="https://github.com/user-attachments/assets/dfb7ff14-0437-4689-a3a0-88fb34ba1028" />
 
 ### 9)	su Command
 
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
+
+<img width="1024" height="334" alt="image" src="https://github.com/user-attachments/assets/7b9c6c30-cdd2-4e31-a194-cb1b57ff7aa4" />
 
 
 ### 10)	mv Command
@@ -94,19 +102,21 @@ The mv command is used to move a file or a directory form one location to anothe
 
 Syntax: mv <file name> <directory path>
 
- 
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
 
+<img width="1167" height="660" alt="image" src="https://github.com/user-attachments/assets/a3604e12-7f1f-49a3-9d8d-3b48727a8206" />
 
 ### 12)	head Command
 
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 
 Syntax: head <file name>
+
+<img width="1311" height="592" alt="image" src="https://github.com/user-attachments/assets/d88a90f0-dcbe-4a90-be9b-f2ae5046c4a4" />
 
 
 ### 13)	tail Command
@@ -115,12 +125,15 @@ The tail command is similar to the head command. The difference between both com
 
 Syntax: tail <file name>
 
+<img width="1329" height="582" alt="image" src="https://github.com/user-attachments/assets/62d3bb97-ad9e-4f42-852c-ab250afd8324" />
  
 ### 14)	id Command
 
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+
+<img width="2032" height="361" alt="image" src="https://github.com/user-attachments/assets/96aa4977-d611-4fc0-a84e-ebb0b09f9367" />
 
 
 ### 15)	grep Command
@@ -129,6 +142,7 @@ The grep is the most powerful and used filter in a Linux system. The 'grep' stan
 
 Syntax: command | grep <search word>
 
+<img width="738" height="207" alt="image" src="https://github.com/user-attachments/assets/f2aa3d48-85cc-4a59-a841-13ac1fb087bc" />
 
 ### 16)	tr Command
 
@@ -136,11 +150,15 @@ The tr command is used to translate the file content like from lower case to upp
 
 Syntax: command | tr <'old'> <'new'>
 
+<img width="737" height="292" alt="image" src="https://github.com/user-attachments/assets/a4481f10-08ba-4f90-b06f-42a2056def26" />
+
 ### 17)	chmod Command
 
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 
 Syntax: chmod<options><permissions><file_name>
+
+<img width="708" height="109" alt="image" src="https://github.com/user-attachments/assets/09d6b0f3-7731-4104-9a09-fe6fb22cf207" />
 
 ### 18)	tar Command
 
@@ -148,6 +166,8 @@ The tar command is used for creating Archieve and extracting the archieve files.
 
 Syntax: tar[options][archieve-file] [file to be archieved]
 $ tar xvzf file.tar *.c
+
+sudo <img width="1131" height="338" alt="image" src="https://github.com/user-attachments/assets/618a8424-d977-49f5-9f62-93c447d023e4" />
  
 ### 19)	chown Command
 
@@ -155,11 +175,16 @@ The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
 
+<img width="731" height="148" alt="image" src="https://github.com/user-attachments/assets/c9ed9cca-af6f-4363-997e-06a7ff4cefda" />
+
+
 ### 20)	make Command
 
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
+<img width="910" height="770" alt="image" src="https://github.com/user-attachments/assets/925223bb-af7f-42d6-a9c0-51328c29a182" />
 
 
 ### 21)	ifconfig Command
