@@ -193,19 +193,24 @@ The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
 
+<img width="1323" height="765" alt="image" src="https://github.com/user-attachments/assets/18839505-6e11-4577-b1fd-97092a3538c8" />
+
 ### 22)	chmod 777 Command
 
 The chmod 777 command gives read, write and execute permission to the owner, group and public.
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
- 
+
+<img width="1156" height="144" alt="image" src="https://github.com/user-attachments/assets/367a2d3f-d750-43f0-96d3-0c0be7f5a35f" />
+
 ### 23)	host Command
 
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
 
+<img width="936" height="124" alt="image" src="https://github.com/user-attachments/assets/c92d1618-fe1a-4912-9a46-02e8825de9c7" />
 
 ### 24)	gzip Command
 
@@ -213,6 +218,7 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
+<img width="1428" height="226" alt="image" src="https://github.com/user-attachments/assets/75926f4f-86d8-46bf-b3f7-f8f6dd4f90f4" />
 
 ### 25)	sort Command
 
@@ -220,13 +226,15 @@ The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
 
- 
+<img width="488" height="238" alt="image" src="https://github.com/user-attachments/assets/dcb4c631-4076-4363-b774-88a28bbedd17" />
+
 ### 26)	cal Command
 
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
 
+<img width="733" height="354" alt="image" src="https://github.com/user-attachments/assets/677b0a5e-d7ea-42ee-b41d-cca7d7422d48" />
 
 ### 27)	clear Command
 
@@ -234,19 +242,23 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
+<img width="725" height="200" alt="image" src="https://github.com/user-attachments/assets/dd23d417-7f15-4def-925e-6fedaad5b138" />
 
-### 28)	mail Command
+### 28)	history Command
 
-The mail command is used to send emails from the command line.
+history - GNU History Library.
 
-Syntax: mail -s "Subject" <recipient address>
+Syntax: history
 
- 
+<img width="527" height="169" alt="image" src="https://github.com/user-attachments/assets/c4cb4247-0a5f-41bf-8d47-ad669d307d52" />
+
 ### 29)	df Command
 
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
+ <img width="1100" height="319" alt="image" src="https://github.com/user-attachments/assets/b4320af1-d813-4fd7-844f-0c9c19a87292" />
 
 ### 30)	find Command
 
@@ -254,25 +266,7 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="491" height="132" alt="image" src="https://github.com/user-attachments/assets/b910441c-a4b5-4734-8b6f-69b40a678681" />
 
 ## Result:
 
